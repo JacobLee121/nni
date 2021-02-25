@@ -31,7 +31,7 @@
 # 编写良好的错误报告或功能请求
 针对每个错误和功能请求提交一个问题， 不要在同一问题中列举多个 Bug 或功能请求。
 
-尽可能多地提供您认为与上下文相关的信息（思考问题如果分配给您，您需要什么样的信息来调试它）。 为了让您大致了解哪些信息对开发人员解决问题有帮助，我们为您提供了问题模板。
+Provide as much information as you think might relevant to the context (thinking the issue is assigning to you, what kinds of info you will need to debug it!!!). 为了让您大致了解哪些信息对开发人员解决问题有帮助，我们为您提供了问题模板。
 
 提交问题后，请务必跟进问题并参与讨论。
 
@@ -52,11 +52,11 @@
 熟悉贡献协议后，即可按照 NNI 开发人员教程，创建第一个 PR =)：
 
 * 推荐新贡献者先从简单的问题开始：['good first issue'](https://github.com/Microsoft/nni/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) 或 ['help-wanted'](https://github.com/microsoft/nni/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)。
-* [NNI 开发环境安装教程](docs/zh_CN/Tutorial/SetupNniDeveloperEnvironment.rst)
-* [如何调试](docs/zh_CN/Tutorial/HowToDebug.rst)
-* 如果有使用上的问题，可先查看[常见问题解答](https://github.com/microsoft/nni/blob/master/docs/zh_CN/Tutorial/FAQ.rst)。如果没能解决问题，可通过 [Gitter](https://gitter.im/Microsoft/nni?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) 联系 NNI 开发团队或在 GitHub 上 [报告问题](https://github.com/microsoft/nni/issues/new/choose)。
-* [自定义 Tuner](docs/zh_CN/Tuner/CustomizeTuner.rst)
-* [实现定制的训练平台](docs/zh_CN/TrainingService/HowToImplementTrainingService.rst)
-* [在 NNI 上实现新的 NAS Trainer](docs/zh_CN/NAS/Advanced.rst)
-* [自定义 Advisor](docs/zh_CN/Tuner/CustomizeAdvisor.rst)
+* [NNI 开发环境安装教程](docs/en_US/Tutorial/SetupNniDeveloperEnvironment.rst)
+* [如何调试](docs/en_US/Tutorial/HowToDebug.rst)
+* If you have any questions on usage, review [FAQ](https://github.com/microsoft/nni/blob/master/docs/en_US/Tutorial/FAQ.rst) first, if there are no relevant issues and answers to your question, try contact NNI dev team and users in [Gitter](https://gitter.im/Microsoft/nni?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) or [File an issue](https://github.com/microsoft/nni/issues/new/choose) on GitHub.
+* [自定义 Tuner](docs/en_US/Tuner/CustomizeTuner.rst)
+* [实现定制的训练平台](docs/en_US/TrainingService/HowToImplementTrainingService.rst)
+* [在 NNI 上实现新的 NAS Trainer](docs/en_US/NAS/Advanced.rst)
+* [自定义 Advisor](docs/en_US/Tuner/CustomizeAdvisor.rst)
 
